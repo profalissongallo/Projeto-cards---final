@@ -27,3 +27,8 @@ criaCartao(
     'Como se calcula a área de um triângulo?',
     'A área de um triângulo qualquer pode ser calculada, multiplicando a base pela sua altura e dividindo esse resultado por 2.'
 )
+criaCartao(
+    'Matemática',
+    'O que diz o teorema de pitágoras?',
+    'Em todo triângulo retângulo a soma dos quadrados dos catetos é igual ao quadrado da hipotenusa'
+)
